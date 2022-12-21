@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=GND Pin=D2-A
+Removed Pin From Net: NetName=MCU_SCL1 Pin=P2-2
+Removed Pin From Net: NetName=MCU_SCL1 Pin=R13-1
+Removed Pin From Net: NetName=MCU_SCL1 Pin=U2-43
+Added Pin To Net: NetName=MCU_SDA1 Pin=P2-2
+Added Pin To Net: NetName=MCU_SDA1 Pin=R13-1
+Added Pin To Net: NetName=MCU_SDA1 Pin=U2-43
+Added Net: Name=MCU_SDA1
+Added Pin To Net: NetName=USART_6_RX Pin=R4-1
+Added Pin To Net: NetName=USART_6_RX Pin=U2-33
+Added Net: Name=USART_6_RX
+Added Pin To Net: NetName=USART_6_TX Pin=R2-2
+Added Pin To Net: NetName=USART_6_TX Pin=U2-32
+Added Net: Name=USART_6_TX

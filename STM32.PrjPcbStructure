@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=lightS.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=lightS.SchDoc|FileName=MLX90614 sensor.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=lightS.SchDoc|FileName=STM32_Schematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=lightS.SchDoc|FileName=TempHumSensor.SchDoc|SheetNumber=2

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MCU_NRST Pin=R8-2
+Added Pin To Net: NetName=MCU_NRST Pin=D11-K
+Added Pin To Net: NetName=MCU_NRST Pin=J2-3
